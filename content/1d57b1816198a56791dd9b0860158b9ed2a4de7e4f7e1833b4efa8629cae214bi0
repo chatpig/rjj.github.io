@@ -1,0 +1,31 @@
+[
+{
+    "id": 1,
+    "enable": true,
+    "customize": false,
+    "title": "Buy Me a Coffee ☕️",
+    "price": 25000,
+    "address": "bc1qewje9kljdzap7vpmk8hjjsk97vmaud6mc37hea",
+    "taddress": "tb1qewje9kljdzap7vpmk8hjjsk97vmaud6mjh9yzw",
+    "hash": "cc33db143a468d2dc9a113bd406ea7b6736c0d485790068f3c6dc747f65ab0bfi0"
+},
+{
+    "id": 2,
+    "enable": true,
+    "customize": false,
+    "title": "Buy Me a Cake 🍰",
+    "price": 50000,
+    "address": "bc1qj30xcn4gft68nn5k6la3yrz5ju942gy7mygs8k",
+    "taddress": "tb1qj30xcn4gft68nn5k6la3yrz5ju942gy73znru9",
+    "hash": "cb4932c11ca6a79bde6162e999e5e0d2b9d0fcce7fc43acdc1d65c2f6d8eac25i0"
+},
+{
+    "id": 3,
+    "enable": true,
+    "customize": true,
+    "title": "Customized Amount 🐷",
+    "address": "bc1qrr3he3aqvnevdkrymkq3nu8xkwcezw3vlp03ud",
+    "taddress": "tb1qrr3he3aqvnevdkrymkq3nu8xkwcezw3v485z87",
+    "hash": "7427e16cd6c145d9fa8dd480ce319b3f834853fec1abacea69410bfa22e13ddbi0"
+}
+]

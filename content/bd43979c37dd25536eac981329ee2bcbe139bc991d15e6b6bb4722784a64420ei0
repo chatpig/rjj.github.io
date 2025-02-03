@@ -1,0 +1,42 @@
+[
+{
+    "id": 1,
+    "title": "cook me a pizza",
+    "command": "rjj pie"
+},
+{
+    "id": 2,
+    "title": "plot by point",
+    "command": "rjj p"
+},
+{
+    "id": 3,
+    "title": "plot by scatter",
+    "command": "rjj pl"
+},
+{
+    "id": 4,
+    "title": "plot by line",
+    "command": "rjj l"
+},
+{
+    "id": 5,
+    "title": "draw a bar chart",
+    "command": "rjj bar"
+},
+{
+    "id": 6,
+    "title": "draw a boxplot",
+    "command": "rjj bx"
+},
+{
+    "id": 7,
+    "title": "draw boxplot by group",
+    "command": "rjj box"
+},
+{
+    "id": 8,
+    "title": "make a 3d heatmap",
+    "command": "rjj map"
+}
+]

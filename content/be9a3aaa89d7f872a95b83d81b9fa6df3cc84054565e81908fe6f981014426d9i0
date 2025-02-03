@@ -1,0 +1,38 @@
+[
+{
+    "id": 1,
+    "title": "rjj",
+    "sentence1": "i am a simple data transformer plus analyzer",
+    "hash1": "bb6d4167bccaac1d466c7cf5de1696ecaf428defe7f0b26fdc05b9427630c267i0"
+},
+{
+    "id": 2,
+    "title": "install me via pip/pip3",
+    "command": "pip install rjj"
+},
+{
+    "id": 3,
+    "title": "update me",
+    "command": "pip install rjj --upgrade"
+},
+{
+    "id": 4,
+    "title": "check my version",
+    "command": "rjj -v"
+},
+{
+    "id": 5,
+    "title": "read my manual",
+    "command": "rjj -h"
+},
+{
+    "id": 6,
+    "title": "package on pypi",
+    "sentence1": "pypi.org/project/rjj"
+},
+{
+    "id": 7,
+    "title": "repository on GitHub",
+    "sentence1": "github.com/calcuis/rjj"
+}
+]

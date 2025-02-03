@@ -1,0 +1,47 @@
+[
+{
+    "id": 1,
+    "title": "sample size for paired-sample t-test",
+    "command": "rjj pp"
+},
+{
+    "id": 2,
+    "title": "sample size for independent-sample t-test",
+    "command": "rjj pi"
+},
+{
+    "id": 3,
+    "title": "sample size for one-way anova",
+    "command": "rjj po"
+},
+{
+    "id": 4,
+    "title": "sample size for correlation analysis",
+    "command": "rjj pc"
+},
+{
+    "id": 5,
+    "title": "sample size for regression analysis",
+    "command": "rjj pr"
+},
+{
+    "id": 6,
+    "title": "effect size and power for one-sample t-test",
+    "command": "rjj et"
+},
+{
+    "id": 7,
+    "title": "effect size and power for paired-sample t-test",
+    "command": "rjj ep"
+},
+{
+    "id": 8,
+    "title": "effect size and power for independent-sample t-test",
+    "command": "rjj ei"
+},
+{
+    "id": 9,
+    "title": "effect size and power for one-way anova",
+    "command": "rjj eo"
+}
+]

@@ -1,0 +1,67 @@
+[
+{
+    "id": 1,
+    "title": "convert json to csv",
+    "command": "rjj c"
+},
+{
+    "id": 2,
+    "title": "reverse csv back to json",
+    "command": "rjj r"
+},
+{
+    "id": 3,
+    "title": "eraser",
+    "command": "rjj e"
+},
+{
+    "id": 4,
+    "title": "join",
+    "command": "rjj join"
+},
+{
+    "id": 5,
+    "title": "inner join",
+    "command": "rjj i"
+},
+{
+    "id": 6,
+    "title": "outer join",
+    "command": "rjj o"
+},
+{
+    "id": 7,
+    "title": "detector",
+    "command": "rjj d"
+},
+{
+    "id": 8,
+    "title": "filter",
+    "command": "rjj f"
+},
+{
+    "id": 9,
+    "title": "matcher",
+    "command": "rjj m"
+},
+{
+    "id": 10,
+    "title": "uniquer",
+    "command": "rjj u"
+},
+{
+    "id": 11,
+    "title": "binder",
+    "command": "rjj b"
+},
+{
+    "id": 12,
+    "title": "jointer",
+    "command": "rjj j"
+},
+{
+    "id": 13,
+    "title": "splitter",
+    "command": "rjj s"
+}
+]

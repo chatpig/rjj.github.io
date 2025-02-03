@@ -1,0 +1,72 @@
+[
+{
+    "id": 1,
+    "title": "one-sample z-test",
+    "command": "rjj oz"
+},
+{
+    "id": 2,
+    "title": "one-sample t-test",
+    "command": "rjj ot"
+},
+{
+    "id": 3,
+    "title": "paired-sample t-test",
+    "command": "rjj pt"
+},
+{
+    "id": 4,
+    "title": "independent-sample t-test",
+    "command": "rjj it"
+},
+{
+    "id": 5,
+    "title": "levene test",
+    "command": "rjj lv"
+},
+{
+    "id": 6,
+    "title": "homogeneity of variance",
+    "command": "rjj hv"
+},
+{
+    "id": 7,
+    "title": "one-way anova",
+    "command": "rjj oa"
+},
+{
+    "id": 8,
+    "title": "correlation analysis",
+    "command": "rjj ca"
+},
+{
+    "id": 9,
+    "title": "regression analysis",
+    "command": "rjj ra"
+},
+{
+    "id": 10,
+    "title": "regression model fit analysis",
+    "command": "rjj fit"
+},
+{
+    "id": 11,
+    "title": "reliability test",
+    "command": "rjj rt"
+},
+{
+    "id": 12,
+    "title": "exploratory factor analysis",
+    "command": "rjj efa"
+},
+{
+    "id": 13,
+    "title": "fixed factor exploratory analysis",
+    "command": "rjj tea"
+},
+{
+    "id": 14,
+    "title": "confirmatory factor analysis",
+    "command": "rjj cfa"
+}
+]
